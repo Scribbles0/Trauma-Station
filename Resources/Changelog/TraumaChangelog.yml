@@ -3286,3 +3286,13 @@ Entries:
   id: 396
   time: '2026-03-01T16:17:52.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/930
+- author: NoElkaTheGod
+  changes:
+  - type: Fix
+    message: >-
+      You no longer far asleep every minute after standing near a malign
+      fracture for 0.01 seconds (I forgot one line of code, point and laugh
+      everyone)
+  id: 397
+  time: '2026-03-01T18:09:36.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/933
