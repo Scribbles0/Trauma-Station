@@ -3296,3 +3296,10 @@ Entries:
   id: 397
   time: '2026-03-01T18:09:36.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/933
+- author: The Man Who Sold The World
+  changes:
+  - type: Add
+    message: Re-enabled holocigar but without the gun buffs slop.
+  id: 398
+  time: '2026-03-01T18:18:01.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/934
