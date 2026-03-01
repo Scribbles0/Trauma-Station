@@ -54,7 +54,6 @@ public sealed partial class SalvageSystem
             try
             {
                 await TakeMagnetOffer((station.Value, dataComp), index, (uid, component), actor); // DeltaV: pass the user entity
-                await TakeMagnetOffer((station.Value, dataComp), index, (uid, component));
             }
             catch (Exception e)
             {

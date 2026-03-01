@@ -1,3 +1,6 @@
+// <Trauma>
+using Robust.Shared.Physics.Components;
+// </Trauma>
 using Content.Server.Chemistry.Components;
 using Content.Shared.Chemistry.Events;
 using Content.Shared.Projectiles;
