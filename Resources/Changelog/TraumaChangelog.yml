@@ -3511,3 +3511,12 @@ Entries:
   id: 415
   time: '2026-03-04T03:31:12.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/262
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: >-
+      Fixed guns that need wielding not having a popup when trying to shoot
+      them.
+  id: 416
+  time: '2026-03-04T08:32:42.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/989
