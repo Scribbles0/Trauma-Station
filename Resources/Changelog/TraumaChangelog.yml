@@ -3600,3 +3600,10 @@ Entries:
   id: 426
   time: '2026-03-05T08:46:32.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1026
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Fixed revs radio jammer.
+  id: 427
+  time: '2026-03-05T08:50:06.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1027
