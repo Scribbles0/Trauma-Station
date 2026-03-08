@@ -3919,3 +3919,10 @@ Entries:
   id: 461
   time: '2026-03-08T18:15:17.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/980
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: Changed knowledge requirements for some improvised items.
+  id: 462
+  time: '2026-03-08T18:20:41.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1128
