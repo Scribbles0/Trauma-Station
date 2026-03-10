@@ -4125,3 +4125,14 @@ Entries:
   id: 486
   time: '2026-03-10T12:00:59.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1181
+- author: NoElkaTheGod
+  changes:
+  - type: Add
+    message: >-
+      Added parrying! If your melee skill is high enough, and you have an
+      appropriate weapon, you can block a few hits in a row.
+  - type: Tweak
+    message: Reflects were changed to be not random. They now work just like parrying.
+  id: 487
+  time: '2026-03-10T12:43:11.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1154
