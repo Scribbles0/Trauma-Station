@@ -4156,3 +4156,12 @@ Entries:
   id: 489
   time: '2026-03-10T22:33:29.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1186
+- author: SirWarock, NoElkaTheGod
+  changes:
+  - type: Add
+    message: >-
+      Added Waypointers. Currently used by space dragons to tell where the
+      station is.
+  id: 490
+  time: '2026-03-10T22:39:59.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1182
