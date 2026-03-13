@@ -4263,3 +4263,10 @@ Entries:
   id: 500
   time: '2026-03-13T05:33:06.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1153
+- author: TurboTrackerss14
+  changes:
+  - type: Tweak
+    message: 'Buffed advanced mops chem regeneration and purge rates. '
+  id: 501
+  time: '2026-03-13T06:37:26.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1226
