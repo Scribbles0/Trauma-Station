@@ -4300,3 +4300,10 @@ Entries:
   id: 504
   time: '2026-03-13T17:51:56.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1242
+- author: TurboTrackerss14
+  changes:
+  - type: Tweak
+    message: Armory Judo lockers can now be unlocked on blue alert.
+  id: 505
+  time: '2026-03-13T17:53:34.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1238
