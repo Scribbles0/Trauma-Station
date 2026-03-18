@@ -4808,3 +4808,10 @@ Entries:
   id: 564
   time: '2026-03-18T06:52:12.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1396
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Fixed getting ork for free with just clumsiness...
+  id: 565
+  time: '2026-03-18T08:07:59.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1407
