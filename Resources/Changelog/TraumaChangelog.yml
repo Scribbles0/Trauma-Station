@@ -4831,3 +4831,10 @@ Entries:
   id: 567
   time: '2026-03-18T09:21:45.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1391
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Fixed unanchoring lathes making them instantly finish production.
+  id: 568
+  time: '2026-03-18T09:45:23.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1413
