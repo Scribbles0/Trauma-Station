@@ -4847,3 +4847,14 @@ Entries:
   id: 569
   time: '2026-03-18T09:51:32.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1406
+- author: deltanedas
+  changes:
+  - type: Add
+    message: >-
+      Added a reset button to the skills editor, use it if your skills are
+      messed up etc.
+  - type: Fix
+    message: Fixed skill editor's cost number including the species skills.
+  id: 570
+  time: '2026-03-18T10:08:23.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1414
