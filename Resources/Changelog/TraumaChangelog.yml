@@ -4892,3 +4892,12 @@ Entries:
   id: 574
   time: '2026-03-18T18:02:25.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1419
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: >-
+      Made salicylic acid always heal the same midlevel amount, but it no longer
+      has a huge damage requirement to work.
+  id: 575
+  time: '2026-03-18T19:03:23.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1420
