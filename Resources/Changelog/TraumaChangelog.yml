@@ -4924,3 +4924,10 @@ Entries:
   id: 578
   time: '2026-03-19T09:42:49.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1431
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Bow and arrow now properly predicts embedding into things you shoot.
+  id: 579
+  time: '2026-03-19T10:44:21.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1435
