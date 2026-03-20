@@ -4982,3 +4982,10 @@ Entries:
   id: 585
   time: '2026-03-20T00:09:46.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1450
+- author: GeneRickUsername
+  changes:
+  - type: Tweak
+    message: Different crafting skills matters to different recipes now.
+  id: 586
+  time: '2026-03-20T06:58:09.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1454
