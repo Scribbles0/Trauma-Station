@@ -5187,3 +5187,12 @@ Entries:
   id: 610
   time: '2026-03-22T10:09:23.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1520
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: >-
+      Bone damage no longer has a random chance to make you fumble
+      melee/shooting because it's too buggy.
+  id: 611
+  time: '2026-03-22T10:25:58.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1518
