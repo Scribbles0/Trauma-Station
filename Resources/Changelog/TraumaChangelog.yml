@@ -5217,3 +5217,10 @@ Entries:
   id: 614
   time: '2026-03-22T11:40:03.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1526
+- author: ImWeax
+  changes:
+  - type: Add
+    message: Re-added snake tail customization options.
+  id: 615
+  time: '2026-03-22T14:47:55.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1527
