@@ -5238,3 +5238,10 @@ Entries:
   id: 617
   time: '2026-03-23T06:07:03.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1532
+- author: GoidaYAMLWarrior
+  changes:
+  - type: Tweak
+    message: changed nothingburger sprite to be less meme-y
+  id: 618
+  time: '2026-03-23T06:50:35.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1533
